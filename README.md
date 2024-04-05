@@ -16,11 +16,11 @@ This Python script is designed to brute-force MD5 or SHA-256 hashed passwords. I
  Follow the on-screen prompts to choose the hashing algorithm (MD5 or SHA-256) and enter the corresponding hash value.
  The script will attempt to find the password by brute-forcing the hash. If successful, it will display the password.
 
-#Requirements
+# Requirements
 
     Python 3.x
 
-#Disclaimer
+# Disclaimer
 
 This script is provided for educational purposes only. Do not use this script for illegal activities or without proper authorization. Always ensure that you have explicit permission before attempting to crack passwords or test the security of systems.
 
